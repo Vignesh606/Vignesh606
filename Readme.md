@@ -1,6 +1,6 @@
 # Hey, I'm Vignesh Madineni. 👋
  
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vigneshmadineni/)](https://www.linkedin.com/in/vigneshmadineni/) [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vigneshmadineni@gmail.com)](mailto:vigneshmadineni@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vigneshmadineni/)](https://www.linkedin.com/in/vigneshmadineni/) [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vigneshmadineni@gmail.com)](mailto:vigneshmadineni@gmail.com) [![TryHackMe Badge](https://img.shields.io/badge/-TryHackMe-333333?style=flat-square&logo=tryhackme&logoColor=cc0000&link=https://tryhackme.com/p/QLU)](https://tryhackme.com/p/QLU)  [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black&link=https://leetcode.com/u/qlu_1/)](https://leetcode.com/u/qlu_1/)
  
 Cybersecurity Researcher and Deep Learning Engineer based in India, currently pursuing Computer Science Engineering at **VIT Bhopal University**. I build at the cutting edge where **Artificial Intelligence meets Threat Intelligence**—specifically focusing on advanced malware analysis, computer vision for security, and steganography.
 
