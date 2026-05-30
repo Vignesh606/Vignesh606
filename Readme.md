@@ -34,4 +34,3 @@ I approach security from both angles: reverse engineering binaries to understand
 - **NPTEL** — Cyber Security and Privacy
 - **Cisco** — Certified Introduction to Cybersecurity
 - **IBM** — Cybersecurity Basics
-- **Vityarthi** — Fundamentals of AI and ML & Python Essentials
