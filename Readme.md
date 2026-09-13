@@ -30,7 +30,8 @@ I approach security from both angles: reverse engineering binaries to understand
 - **Community Engagement:** Active contributor to technical initiatives, hackathons (Unstop Codefest '25 Ideathon round), and academic development at VIT Bhopal.
 
 ## 📝 Core Certifications
- 
+
+ - **ORACLE** — Java Foundation Associate
 - **NPTEL** — Cyber Security and Privacy
 - **Cisco** — Certified Introduction to Cybersecurity
 - **IBM** — Cybersecurity Basics
